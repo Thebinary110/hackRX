@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+openai
+pinecone
+langchain
+python-docx
+pdfplumber
+PyMuPDF
+pydantic
+faiss-cpu
+tiktoken
+python-multipart
+requests
+python-dotenv
+beautifulsoup4
+chardet
